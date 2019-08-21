@@ -36,10 +36,8 @@ public class MainActivity extends AppCompatActivity {
     int time = 10;
     int scoreCount= 0;
     int questionCount= 0;
-    boolean game = true;
     boolean isCounterRunning;
     private static MediaPlayer mediaPlayer;
-    boolean dothisFirst =true;
     CountDownTimer timer;
     boolean firstClick = true;
 
